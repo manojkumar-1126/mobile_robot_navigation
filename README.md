@@ -1,5 +1,7 @@
 # Warehouse Navigation with ROS 2
 
+https://github.com/user-attachments/assets/1cdecc9e-ed34-4921-aae2-93e111f515ad
+
 A ROS 2 warehouse simulation project focused on autonomous mobile robot navigation using Gazebo, 2D LiDAR, SLAM Toolbox, AMCL, and Nav2.
 
 ## Overview
